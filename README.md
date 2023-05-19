@@ -1,6 +1,8 @@
 # Online Payment Fraud Detection Project
-
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+
+![Alt Text](https://github.com/DoziemMetrics/-Fraud-Detection-for-Online-Payments/blob/main/fraud2.jpeg)
 
 This repository contains the code and documentation for the Online Payment Fraud Detection project. The goal of this project is to build a machine learning model that can predict online payment fraud.
 
@@ -15,6 +17,7 @@ The problem addressed in this project is to develop a machine learning model tha
 In this project, we aim to develop a machine learning model to detect online payment fraud. The dataset used for this project includes various features such as transaction type, amount, balances, and recipient information. By analyzing these features, we aim to train a model that can accurately classify transactions as fraudulent or non-fraudulent.
 
 ## Project Steps
+![Alt Text](https://github.com/DoziemMetrics/-Fraud-Detection-for-Online-Payments/blob/main/Fraud1.jpeg)
 
 1. Exploratory Data Analysis (EDA): Conducted exploratory data analysis to understand the distribution of the data, visualize relationships between variables, and identify any correlations.
 
